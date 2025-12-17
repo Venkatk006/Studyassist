@@ -62,3 +62,10 @@ Deployment
 - Vercel
 - GitHub Pages
 
+Steps to test
+1. Download ZIP from GitHub and extract it.
+2. cd Studyassist-sop-lor
+3. npm install - This installs all required packages listed in package.json
+4. npm run dev
+5. http://localhost:5173 - Open the URL shown in terminal
+
